@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="425" selection-end="425" vertical-scroll-proportion="0.42307693">
+            <state line="22" column="3" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="41" selection-start="190" selection-end="190" vertical-scroll-proportion="0.07692308">
               <folding />
             </state>
           </provider>
@@ -38,6 +47,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -308,7 +318,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="425" selection-end="425" vertical-scroll-proportion="0.42307693">
+        <state line="22" column="3" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="41" selection-start="190" selection-end="190" vertical-scroll-proportion="0.07692308">
           <folding />
         </state>
       </provider>
